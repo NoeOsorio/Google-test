@@ -1,0 +1,37 @@
+.search{
+  	position: absolute;
+  	margin-top:75px;
+  	width:100%;
+}
+#busqueda{
+  width: 600px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #d9d9d9;
+    font-size: 16px;
+    border-radius: 5px;
+    display: block;
+}
+#imagen{
+  padding:142px 0 24px 0;
+	display: block;
+	margin:0 auto;
+}
+ul{
+  list-style-type:none;
+}
+li{
+  display:block;
+  padding: 5px;
+  float: right;
+}
+a:link{
+  text-decoration: none;
+  color: black;
+  display: block;
+  background-color: white;
+}
+a:hover{
+  color: black;
+  text-decoration: underline;
+}
